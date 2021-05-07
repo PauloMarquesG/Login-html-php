@@ -26,7 +26,7 @@ include("connection.php");
 <head>
 	<meta charset="utf-8">
 	<title>Cadastro</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="_css/style.css">
 </head>
 <body>
 	<div id="loginBody">
