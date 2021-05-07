@@ -8,22 +8,28 @@
     	outline: 0;
 	}
 
+	a{
+		text-decoration: none;
+	}
+
 	body, html{
 		background-color: #161a20;
 	}
 
-	div{
+	/* LOGIN */
+
+	div#loginBody{
 		margin-top: 15%;
 		text-align: center;
 		display: block;
 	}
 
-	h1{
+	h1.title{
 		font-family: sans-serif;
 		color: white;
 	}
 
-	input.dados{
+	input.data{
 		padding: 10px;
 		border-radius: 25px;
 		background-color: transparent;
@@ -37,7 +43,7 @@
 		color: gray;
 	}
 
-	input.envio{
+	input.send{
 		padding: 10px;
 		border-radius: 25px;
 		background-color: gray;
@@ -46,11 +52,17 @@
 		color: white;
 	}
 
-	input.envio:hover{
+	input.send:hover{
 		background-color: white;
 		color: gray;
 	}
 
-	
-}
+	a#register{
+		margin-left: 10px;
+		color: white;
+		text-decoration: underline;
+	}
 
+	a#register:hover{
+		color: gray;
+	}
