@@ -25,7 +25,7 @@ if (isset($_POST["login"])) {
 		<form action="login.php" method="POST">
 			<p><input type="text" name="userName" placeholder="Nome ou E-mail" class="data" required></p>
 			<p><input type="password" name="userPassword" placeholder="Senha" maxlength="15" class="data" required></p>
-			<p><input type="submit" name="login" value="Fazer login" class="send"><a href="register.php" id="register">Cadastre-se</a></p>
+			<p><input type="submit" name="login" value="Fazer login" class="send"><a href="register.php" class="lr">Cadastre-se</a></p>
 		</form>
 	</div>
 </body>

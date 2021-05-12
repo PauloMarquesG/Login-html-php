@@ -57,12 +57,12 @@
 		color: gray;
 	}
 
-	a#register{
+	a.lr{
 		margin-left: 10px;
 		color: white;
 		text-decoration: underline;
 	}
 
-	a#register:hover{
+	a.lr:hover{
 		color: gray;
 	}

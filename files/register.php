@@ -36,7 +36,7 @@ include("connection.php");
 			<p><input type="email" name="userEmail" placeholder="E-mail" class="data" required></p>
 			<p><input type="password" name="userPassword" placeholder="Senha" maxlength="15" class="data" required>
 			<p><input type="password" name="userPassword2" placeholder="Confirme senha" maxlength="15" class="data" required></p>
-			<p><input type="submit" name="register" value="Fazer Cadastro" class="send"></p>
+			<p><input type="submit" name="register" value="Fazer Cadastro" class="send"><a href="login.php" class="lr">Login</a></p>
 		</form>
 	</div>
 </body>
