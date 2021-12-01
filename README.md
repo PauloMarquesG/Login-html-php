@@ -19,4 +19,4 @@ Abraços
 
 ---
 **Author:** Paulo Marques Gonçalves (Paulinhn)</br>
-**DATA:** 14/05/2021
+**Data:** 14/05/2021
